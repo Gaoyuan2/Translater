@@ -1,0 +1,1 @@
+{"result":{"from":"zh","trans_result":[{"dst":"Happy New Year","src":"过年快乐"}],"to":"en"},"log_id":1608716193365405391}

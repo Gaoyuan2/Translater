@@ -1,0 +1,1 @@
+{"result":{"from":"zh","trans_result":[{"dst":"Hello","src":"你好"}],"to":"en"},"log_id":1608720401180439775}
